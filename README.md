@@ -9,3 +9,12 @@ Initially, the account will be used to source control a list of the sites being 
 In the future, portions of the software behind this project may be made public, and this account is the space where that will happen.
 
 This account may also be used to dump statistics around archived releases, for use in other community projects.
+
+## [bandcamp-site-listing.txt](bandcamp-site-listing.txt)
+This file contains a list of all the sites the vapor_vault archiver watches. Feel free to create a Pull Request containing new sites, or alternatively [email me](mailto:isao2kjf@protonmail.com) to add a site.
+
+Site submission guidelines are as follows:
+
+1. The site needs to contain Vaporwave, or an appropriate sub-genre (for example, Slushwave, Mallsoft, Future Funk). Bandcamp release keywords should reflect this. Whilst keywords are not absolutely necessary, but help me easily verify whether the site is appropriate or not to include.
+2. If editing [bandcamp-site-listing.txt](bandcamp-site-listing.txt), please enter URLs in alphabetical order.
+3. Please do not add duplicates.
