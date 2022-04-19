@@ -100,12 +100,14 @@ https://alvesvirtual.bandcamp.com
 https://ambassadorclass.bandcamp.com
 https://americanonline.bandcamp.com
 https://americansuburb.bandcamp.com
+https://americaoffline.bandcamp.com
 https://amethyst6.bandcamp.com
 https://ampeff.bandcamp.com
 https://ananasupreme.bandcamp.com
 https://anathema-collective.bandcamp.com
 https://ancientdatarecordings.bandcamp.com
 https://andr0ider.bandcamp.com
+https://android-apartment.bandcamp.com
 https://andromeda04.bandcamp.com
 https://androwants.bandcamp.com
 https://anemoia11.bandcamp.com
@@ -408,6 +410,7 @@ https://dantemarsajeto.bandcamp.com
 https://darienshields.bandcamp.com
 https://dark5lalom.bandcamp.com
 https://darkageworldcult.bandcamp.com
+https://darkdesire.bandcamp.com
 https://darksleep.bandcamp.com
 https://darktriadrecords.bandcamp.com
 https://darkware.bandcamp.com
@@ -587,6 +590,7 @@ https://enigmaticennui.bandcamp.com
 https://enjoy.bandcamp.com
 https://enraile.bandcamp.com
 https://entrana.bandcamp.com
+https://entropyimprint.bandcamp.com
 https://enylobe.bandcamp.com
 https://ephemeraldream.bandcamp.com
 https://ephemeralliferecordings.bandcamp.com
@@ -610,6 +614,7 @@ https://euphoriaeternal.bandcamp.com
 https://eventualinfinity.bandcamp.com
 https://evexi.bandcamp.com
 https://exactamundodiscs.bandcamp.com
+https://exaquis.bandcamp.com
 https://existentialcrisis1.bandcamp.com
 https://exmemory.bandcamp.com
 https://experimentalrecords.bandcamp.com
@@ -794,6 +799,7 @@ https://highschooldramateacher.bandcamp.com
 https://high--tide.bandcamp.com
 https://hightidesvibes.bandcamp.com
 https://highwaydreams.bandcamp.com
+https://hikarinosato.bandcamp.com
 https://hippothevirtue.bandcamp.com
 https://hiraeth-records.bandcamp.com
 https://history.bandcamp.com
@@ -811,6 +817,7 @@ https://hopefulromantics.bandcamp.com
 https://horizonsunited.bandcamp.com
 https://hotelshampoo.bandcamp.com
 https://houg.bandcamp.com
+https://hpovault.bandcamp.com
 https://htna.bandcamp.com
 https://humanightmare.bandcamp.com
 https://humanjackass.bandcamp.com
@@ -839,6 +846,7 @@ https://illuminatedpaths.bandcamp.com
 https://imageganjue.bandcamp.com
 https://imcopav.bandcamp.com
 https://immersioncomplete.bandcamp.com
+https://incarta95.bandcamp.com
 https://incorporealvisionsdeluxe.bandcamp.com
 https://infiniteleisure420.bandcamp.com
 https://infinitequazar.bandcamp.com
@@ -908,6 +916,7 @@ https://karatekingmusic.bandcamp.com
 https://karatekingvapors.bandcamp.com
 https://kawaiiinu.bandcamp.com
 https://kawsaki.bandcamp.com
+https://kazzette.bandcamp.com
 https://kemonogalleria.bandcamp.com
 https://kenmoreclassic.bandcamp.com
 https://kesaizu.bandcamp.com
@@ -962,6 +971,7 @@ https://latenitexeno.bandcamp.com
 https://latinwave.bandcamp.com
 https://latracechicago.bandcamp.com
 https://lavantchars.bandcamp.com
+https://lavareverbvswaterreverb.bandcamp.com
 https://lavideoteque.bandcamp.com
 https://lavishmemories.bandcamp.com
 https://layjeno.bandcamp.com
@@ -975,8 +985,10 @@ https://leisurecentre.bandcamp.com
 https://leisureland2000.bandcamp.com
 https://lemkuuja.bandcamp.com
 https://lemonadeclub.bandcamp.com
+https://lemonlimemusic.bandcamp.com
 https://lemontapes.bandcamp.com
 https://leonls.bandcamp.com
+https://lephunk.bandcamp.com
 https://lereal.bandcamp.com
 https://lestenohira.bandcamp.com
 https://liarsclub88.bandcamp.com
@@ -1023,6 +1035,7 @@ https://luckychopsticks.bandcamp.com
 https://luckytalisman.bandcamp.com
 https://lumino.bandcamp.com
 https://lumsynwave.bandcamp.com
+https://lunarchannel.bandcamp.com
 https://lunitas.bandcamp.com
 https://lustluxure.bandcamp.com
 https://lustreflux.bandcamp.com
@@ -1060,6 +1073,7 @@ https://marbletapes.bandcamp.com
 https://marioangel.bandcamp.com
 https://maroplume.bandcamp.com
 https://marriottfantasy.bandcamp.com
+https://marsy.bandcamp.com
 https://masher2.bandcamp.com
 https://mashuxcvi.bandcamp.com
 https://masqueradevapor.bandcamp.com
@@ -1105,6 +1119,7 @@ https://metrowest.bandcamp.com
 https://mewt8.bandcamp.com
 https://mhzmusic.bandcamp.com
 https://miamivice.bandcamp.com
+https://microgram.bandcamp.com
 https://microliquidsurf.bandcamp.com
 https://midilife.bandcamp.com
 https://midnight9d.bandcamp.com
@@ -1125,6 +1140,7 @@ https://mildsorrowintegrated.bandcamp.com
 https://millenniumedition.bandcamp.com
 https://mindsailorrecords.bandcamp.com
 https://mindspringmemories.bandcamp.com
+https://minuitcollective.bandcamp.com
 https://miragesync.bandcamp.com
 https://miraicult.bandcamp.com
 https://mirrorshoppe.bandcamp.com
@@ -1164,6 +1180,7 @@ https://mrwaxmusic.bandcamp.com
 https://mrwithoutlove7.bandcamp.com
 https://ms-w.bandcamp.com
 https://mtfuji.bandcamp.com
+https://mthu.bandcamp.com
 https://mtsol.bandcamp.com
 https://multicinex.bandcamp.com
 https://multi-s.bandcamp.com
@@ -1175,11 +1192,14 @@ https://mxmus.bandcamp.com
 https://mydreamyadventure1.bandcamp.com
 https://mypetflamingo.bandcamp.com
 https://mysistersfugazishirt.bandcamp.com
+https://mystery-fantasylegend.bandcamp.com
 https://mystyou.bandcamp.com
 https://n0xmortem.bandcamp.com
 https://n-6-4.bandcamp.com
+https://naitomusic.bandcamp.com
 https://nanagv.bandcamp.com
 https://nanami09.bandcamp.com
+https://nanonovo.bandcamp.com
 https://nanoshrine.bandcamp.com
 https://nanoshrine.com
 https://narcissustech.bandcamp.com
@@ -1325,6 +1345,7 @@ https://pan1pan.bandcamp.com
 https://panzerparadise.bandcamp.com
 https://paradiseofyesterday.bandcamp.com
 https://paradiserecordshtml.bandcamp.com
+https://paranoirantares.bandcamp.com
 https://particledreams.bandcamp.com
 https://partynight.bandcamp.com
 https://parunormal.bandcamp.com
@@ -1396,6 +1417,7 @@ https://prismlite.bandcamp.com
 https://prismscent.bandcamp.com
 https://projectlazarus.space
 https://protonetworks.bandcamp.com
+https://proux.bandcamp.com
 https://pseudon764.bandcamp.com
 https://puckeringsee.bandcamp.com
 https://puderpolli.bandcamp.com
@@ -1409,6 +1431,7 @@ https://pylonmedia.bandcamp.com
 https://pza420.bandcamp.com
 https://qingmiaodanxie.bandcamp.com
 https://quadratox.bandcamp.com
+https://quantumecho.bandcamp.com
 https://questionrecords.bandcamp.com
 https://quickbrownfox.bandcamp.com
 https://qwrty4.bandcamp.com
@@ -1434,6 +1457,7 @@ https://reality-v2.bandcamp.com
 https://realmoistwazowski.bandcamp.com
 https://reas7.bandcamp.com
 https://redditvaporwave.bandcamp.com
+https://redicetapes.bandcamp.com
 https://reflectivesea.bandcamp.com
 https://remember48.bandcamp.com
 https://rememulator.bandcamp.com
@@ -1460,6 +1484,7 @@ https://robotaisen.bandcamp.com
 https://robotboyfriend.bandcamp.com
 https://rocklee20.bandcamp.com
 https://rodanrodan.bandcamp.com
+https://rollergirl.bandcamp.com
 https://rombreaker.bandcamp.com
 https://room208.bandcamp.com
 https://roseandthornrecordings.bandcamp.com
@@ -1519,6 +1544,7 @@ https://shadleypeterson.bandcamp.com
 https://sharedsystems.bandcamp.com
 https://shatterfoilindustries.bandcamp.com
 https://sheilaex.bandcamp.com
+https://shesaiddisco.bandcamp.com
 https://shifala.bandcamp.com
 https://shiftycomfort.bandcamp.com
 https://shikuramengarden.bandcamp.com
@@ -1556,6 +1582,7 @@ https://sleepfinder.bandcamp.com
 https://sleeplesstapes.bandcamp.com
 https://sleepoversynth.bandcamp.com
 https://slickking.bandcamp.com
+https://slidingglassdoors.bandcamp.com
 https://slimeera.bandcamp.com
 https://slowmidnight.bandcamp.com
 https://slushwavesocialclub.bandcamp.com
@@ -1699,6 +1726,7 @@ https://telepathtelepath.bandcamp.com
 https://teleplus1.bandcamp.com
 https://television2.bandcamp.com
 https://televisionarchives.bandcamp.com
+https://tendencies.bandcamp.com
 https://terminaldream.bandcamp.com
 https://tetrasystems.bandcamp.com
 https://texy.bandcamp.com
@@ -1713,6 +1741,7 @@ https://theinfinitipool.bandcamp.com
 https://theinnernettes.bandcamp.com
 https://thelonelysadboy.bandcamp.com
 https://thenightclubcollection.bandcamp.com
+https://theophanim.bandcamp.com
 https://thetechnicolorwillow.bandcamp.com
 https://thetidalcharm.bandcamp.com
 https://thevaporroom.bandcamp.com
@@ -1829,6 +1858,7 @@ https://vcr-archive.bandcamp.com
 https://vcr-classique.bandcamp.com
 https://vcrecordings.bandcamp.com
 https://vcrnot.bandcamp.com
+https://vdubv.bandcamp.com
 https://vectorgraphics.bandcamp.com
 https://vegeta95.bandcamp.com
 https://vektorstorm.bandcamp.com
@@ -1914,6 +1944,7 @@ https://welcome1.bandcamp.com
 https://welcomebeautysounds.bandcamp.com
 https://wesables.bandcamp.com
 https://westerndigital.bandcamp.com
+https://wetdreamsexciter.bandcamp.com
 https://wetelectronics.bandcamp.com
 https://whalez.bandcamp.com
 https://wild-kinetic-dreams.bandcamp.com
@@ -1951,6 +1982,7 @@ https://yodobashicamera.bandcamp.com
 https://yohan1.bandcamp.com
 https://yokaibeats.bandcamp.com
 https://yokocho.bandcamp.com
+https://yoortloog24.bandcamp.com
 https://yosai.bandcamp.com
 https://youmusic9.bandcamp.com
 https://youngsadzeppeli.bandcamp.com
@@ -1978,6 +2010,7 @@ https://zanraikid.bandcamp.com
 https://zecco.bandcamp.com
 https://zehavit.bandcamp.com
 https://zer0trashwave.bandcamp.com
+https://zextillion.bandcamp.com
 https://zhen.bandcamp.com
 https://zhurnalmod.bandcamp.com
 https://zicarios69.bandcamp.com
