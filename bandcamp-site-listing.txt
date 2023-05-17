@@ -341,6 +341,7 @@ https://bodyendtag.bandcamp.com
 https://bodyform.bandcamp.com
 https://bodyline.bandcamp.com
 https://bodylinemwc.bandcamp.com
+https://bofinajo.bandcamp.com
 https://boguscollective.bandcamp.com
 https://bonsewswesa.bandcamp.com
 https://bonusfruit.bandcamp.com
@@ -743,6 +744,7 @@ https://dontbe.bandcamp.com
 https://donutspecialist.bandcamp.com
 https://doobnoxious.bandcamp.com
 https://doobydouglas.bandcamp.com
+https://doohreven.bandcamp.com
 https://doomdiamond.bandcamp.com
 https://doomtrip.bandcamp.com
 https://dopplerradar.bandcamp.com
@@ -1130,6 +1132,7 @@ https://groovezilla.bandcamp.com
 https://groovygodzilla.bandcamp.com
 https://groovygroom.bandcamp.com
 https://gtwave.bandcamp.com
+https://guild.bandcamp.com
 https://gulfaudiocompany.bandcamp.com
 https://gulfsparecords.bandcamp.com
 https://gumshoe.bandcamp.com
@@ -1391,6 +1394,7 @@ https://kirbyanddee.bandcamp.com
 https://kirbyanddemo.bandcamp.com
 https://kissinghomedubs.bandcamp.com
 https://kissmenerdygirl.bandcamp.com
+https://kitchenplace.bandcamp.com
 https://kitosmith.bandcamp.com
 https://kkdamian.bandcamp.com
 https://kliffi.bandcamp.com
@@ -1501,6 +1505,7 @@ https://lizardclit.bandcamp.com
 https://llnothingll.bandcamp.com
 https://lmao.bandcamp.com
 https://lmnlrecords.bandcamp.com
+https://lobsterphobia.bandcamp.com
 https://local-visions.bandcamp.com
 https://localcurrentconditions.bandcamp.com
 https://localradar.bandcamp.com
@@ -1656,6 +1661,7 @@ https://metaprise.bandcamp.com
 https://metaxu.bandcamp.com
 https://meteorologicalagency.bandcamp.com
 https://methmusic.bandcamp.com
+https://methtelevision2.bandcamp.com
 https://metroexchange.bandcamp.com
 https://metropolita.bandcamp.com
 https://metrowest.bandcamp.com
@@ -2098,6 +2104,7 @@ https://princesscommodore64.bandcamp.com
 https://principleswerk.bandcamp.com
 https://prismafm.bandcamp.com
 https://prismapatterns.bandcamp.com
+https://prismerprismerprismer.bandcamp.com
 https://prismervapor.bandcamp.com
 https://prismlite.bandcamp.com
 https://prismocean.bandcamp.com
@@ -2558,6 +2565,7 @@ https://teahousecollective.bandcamp.com
 https://tecamachero.bandcamp.com
 https://tech-noir.bandcamp.com
 https://technicolordreams.bandcamp.com
+https://telehealthbeats.bandcamp.com
 https://telekanalsvoboda.bandcamp.com
 https://telenights.bandcamp.com
 https://telepathtelepath.bandcamp.com
@@ -2707,6 +2715,7 @@ https://uminet.bandcamp.com
 https://un-luck.bandcamp.com
 https://unchill.bandcamp.com
 https://undefinedculturaldemise.bandcamp.com
+https://undersaken.bandcamp.com
 https://underscorescarecrow.bandcamp.com
 https://undertwopalms.bandcamp.com
 https://underwater-computing.bandcamp.com
@@ -2920,6 +2929,7 @@ https://witch1990.bandcamp.com
 https://wizardofdarkness.bandcamp.com
 https://wolfensteinosx.bandcamp.com
 https://womenswalking.bandcamp.com
+https://worldofequip.bandcamp.com
 https://worldswitcher.bandcamp.com
 https://worldwidesolutions.bandcamp.com
 https://wormmm.bandcamp.com
